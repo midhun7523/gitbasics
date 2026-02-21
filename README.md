@@ -27,12 +27,6 @@ Copy the full guide from the provided content into README.md for instant use. Pr
 Usage
 Clone or create a new repo.
 
-Add this as your README.md.
-
-Reference during coding sessions—ideal for your Python/ML projects.
-
-Contributing
-Suggestions welcome! Fork, branch (git checkout -b feature), commit, and PR.
 
 License
 MIT – feel free to use and share.
